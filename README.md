@@ -1,2 +1,2 @@
-# Deep state abstraction
-The implementation of the paper: Deep State Abstraction for OPE(DeSA)
+# state abstraction
+The implementation of the paper: Forward and Backward State Abstraction for OPE
